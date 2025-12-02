@@ -4,16 +4,6 @@ A cybersecurity student, machine learning researcher, and DevSecOps engineer pas
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=jeevanparajuli856&theme=dracula&hide_border=false" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jeevanparajuli856&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-
-
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -58,17 +48,11 @@ A cybersecurity student, machine learning researcher, and DevSecOps engineer pas
 ### 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="https://linkedin.com/in/jeevanparajuli856" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:jeevanparajuli856@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://instagram.com/your-link" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://discord.com/users/your-id" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
 
