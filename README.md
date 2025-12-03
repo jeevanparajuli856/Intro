@@ -62,7 +62,7 @@ A cybersecurity student, machine learning researcher, and DevSecOps engineer pas
 
 ---
 
-### 🐍 Contribution Snake Animation
+### 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/jeevanparajuli856/jeevanparajuli856/output/snake.svg" alt="Snake animation" />
 
