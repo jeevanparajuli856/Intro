@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋! My name is Jeevan Parajuli</h2>
 <p align="center">
-A cybersecurity student, machine learning researcher, and DevSecOps engineer passionate about building secure and intelligent systems.
+A software engineer, machine learning researcher, and DevSecOps engineer passionate about building secure and intelligent systems.
 </p>
 
 ---
